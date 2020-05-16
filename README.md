@@ -14,7 +14,7 @@ The course contains:
 - JavaScript
 - Back-end development using [NodeJS](https://nodejs.org)
 - Front-end development using [React](https://reactjs.org/)
-- Databases: MySql, PostGres etc.
+- Databases: MongoDB, PostGres etc.
 - Other supported development languages: Java, Python
 - Other technologies: Docker, Kubernetes etc.
 
